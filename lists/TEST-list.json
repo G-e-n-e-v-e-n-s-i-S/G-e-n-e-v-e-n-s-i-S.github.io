@@ -1,0 +1,79 @@
+﻿[
+    {
+        "card_name": "523",
+        "number": 1,
+        "shape": "normal",
+        "set": "TEST",
+        "position": "0"
+    },
+    {
+        "card_name": "523 battle",
+        "number": 2,
+        "shape": "battle split",
+        "set": "TEST",
+        "position": "4"
+    },
+    {
+        "card_name": "523 dfc battle f",
+        "number": 3,
+        "shape": "double faced split",
+        "set": "TEST",
+        "position": "7"
+    },
+    {
+        "card_name": "523 dfc f",
+        "number": 4,
+        "shape": "transform double faced",
+        "set": "TEST",
+        "position": "1"
+    },
+    {
+        "card_name": "902",
+        "number": 5,
+        "shape": "normal",
+        "set": "TEST",
+        "position": "5"
+    },
+    {
+        "card_name": "1046",
+        "number": 6,
+        "shape": "normal",
+        "set": "TEST",
+        "position": "2"
+    },
+    {
+        "card_name": "1046 battle",
+        "number": 7,
+        "shape": "battle split",
+        "set": "TEST",
+        "position": "3"
+    },
+    {
+        "card_name": "1500",
+        "number": 8,
+        "shape": "plane card",
+        "set": "TEST",
+        "position": "6"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
